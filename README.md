@@ -24,8 +24,8 @@ This React application asks the user if they feel like going out tonight and dis
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/BhoomiGohil/Srimba-React-ConditionalRendering2.git
+cd Srimba-React-ConditionalRendering2
 ```
 
 2. Install dependencies:
